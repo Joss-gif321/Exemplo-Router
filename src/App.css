@@ -1,0 +1,10 @@
+nav{
+    background-color: aqua;
+}
+
+ul{
+    display:flex;
+    Padding: 0;
+    gap: 40px;
+    list-style: none;
+}
